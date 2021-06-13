@@ -6,6 +6,7 @@ Cool serverless resources I find along the way. Feel free to submit PR requests!
 * [FooBar Serverless](https://www.youtube.com/c/FooBar_codes)
 * [AWS Online Tech Talks](https://www.youtube.com/playlist?list=PL5bUlblGfe0IbG-x7oMk-LnK_naL7grF_)
 * [Serverless Land](https://www.youtube.com/channel/UC_vJsnqdpuEoRseFmlkHMkA)
+* [Nader Dabit](https://www.youtube.com/naderdabit)
 
 ### Blogs
 * [Serverless Land](https://serverlessland.com/)
